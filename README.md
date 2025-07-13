@@ -21,14 +21,3 @@ To analyze and understand the performance of a hospital's emergency room by iden
 - **Jupyter Notebook** – for basic data cleaning and exploration  
 
 ---
-
-## ⚠️ Limitations
-
-- This dataset contains **synthetic (fake) data** and is **not representative** of real-world hospital operations.
-
----
-
-## 📚 References
-
-- [Real World Fake Data](https://www.realworldfakedata.com)  
-- [Data Wizardry](https://www.datawizardry.com)
