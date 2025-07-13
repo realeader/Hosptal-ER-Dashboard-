@@ -18,6 +18,6 @@ To analyze and understand the performance of a hospital's emergency room by iden
 
 - **Tableau Public** – for dashboard visualization  
 - **CSV Dataset** – sample ER data  
-- **Jupyter Notebook** – for basic data cleaning and exploration  
+
 
 ---
